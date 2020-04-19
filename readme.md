@@ -1,1 +1,1 @@
-temp readme file
+This repository collects date for python courses
