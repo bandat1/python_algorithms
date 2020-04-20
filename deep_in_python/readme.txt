@@ -1,1 +1,2 @@
-Coursera. MIPT & Mail Group. Погружение в python.
+﻿Погружение в Python
+by Московский физико-технический институт, Mail.Ru Group & ФРОО
