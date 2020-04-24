@@ -1,1 +1,0 @@
-GeekBrains. Основы языка Python.
