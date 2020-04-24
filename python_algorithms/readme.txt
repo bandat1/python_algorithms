@@ -1,1 +1,1 @@
-GeekBrains. Алгоритмы Python
+﻿GeekBrains. Алгоритмы и структуры данных на Python.
